@@ -1,0 +1,42 @@
+.navbar-default{
+	background: #3AB54A;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: #fff;
+}
+
+.navbar-default .navbar-nav > .active > a{
+	background: #2EA13D;
+}
+
+.navbar-default .navbar-nav > .active > a{
+	color: #fff;
+}
+
+.navbar-default .navbar-brand{
+	color: #fff;
+}
+
+.navbar-default .navbar-nav > .active > a:hover{
+	background: #248F33;
+	color: #fff;
+}
+.top_headlines li{
+	list-style: none;
+}
+.twitter-timeline{
+	height: 320px;
+}
+
+.tweets h3{
+	text-align: center;
+}
+.list li{
+
+	list-style: none;
+}
+.search li{
+	list-style: none;
+	text-decoration: none;
+}
